@@ -9,3 +9,5 @@ jobs:
       - name: 'Testing Github action'
         run: pwd
 
+      - uses: actions/checkout@v3  
+
